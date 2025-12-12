@@ -1,0 +1,5 @@
+rootProject.name = 'LaleApp'
+
+include 'user-service'
+include 'content-service'
+include 'learning-service'

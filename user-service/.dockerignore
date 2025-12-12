@@ -1,0 +1,11 @@
+.git
+.gradle
+build
+out
+node_modules
+.idea
+.vscode
+*.iml
+*.log
+Dockerfile
+docker-compose.yml
